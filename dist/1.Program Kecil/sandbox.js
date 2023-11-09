@@ -38,3 +38,4 @@ function fooBar(arrNumber) {
     return output;
 }
 console.log(fooBar(arrNumber));
+//# sourceMappingURL=sandbox.js.map
